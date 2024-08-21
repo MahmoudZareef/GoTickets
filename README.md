@@ -12,7 +12,7 @@ A simple ticket allocation and purchasing system built with Go and PostgreSQL.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ticket-system.git
+   git clone https://github.com/mahmoudzareef/ticket-system.git
    cd ticket-system
    ```
 
